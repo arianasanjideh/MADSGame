@@ -1,0 +1,131 @@
+{
+    "cacheVersion": 3,
+    "fileHashCode": 149675,
+    "sha256": "6dbb1e5c84195cc69942b41cb84a508f3a9b86b8c8d03fec2c3d53831c895636",
+    "parsingAttempts": 1,
+    "projectName": "ShadowDance",
+    "dependencies": [
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-assimp"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-glfw"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-openal"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-opengl"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-stb"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-assimp"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-glfw"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-openal"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-opengl"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "org.lwjgl",
+                    "artifactId": "lwjgl-stb"
+                }
+            },
+            "declarationIndexes": null
+        },
+        {
+            "dependency": {
+                "coordinates": {
+                    "groupId": "io.github.eleanor-em",
+                    "artifactId": "bagel",
+                    "version": "1.9.3"
+                }
+            },
+            "declarationIndexes": {
+                "wholeDeclarationStartIndex": 3907,
+                "coordinatesStartIndex": 3907,
+                "versionStartIndex": 4024
+            }
+        }
+    ]
+}

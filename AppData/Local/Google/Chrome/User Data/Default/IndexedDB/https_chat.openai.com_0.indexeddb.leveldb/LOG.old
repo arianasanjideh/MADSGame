@@ -1,0 +1,6 @@
+2023/10/05-19:13:27.850 894 Creating DB C:\Users\arian\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_chat.openai.com_0.indexeddb.leveldb since it was missing.
+2023/10/05-19:13:27.867 894 Reusing MANIFEST C:\Users\arian\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_chat.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/05-19:13:37.553 43a4 Level-0 table #5: started
+2023/10/05-19:13:37.557 43a4 Level-0 table #5: 1377 bytes OK
+2023/10/05-19:13:37.564 43a4 Delete type=0 #3
+2023/10/05-19:13:37.564 43a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
